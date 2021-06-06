@@ -1,2 +1,5 @@
-# What is Bootstrap-Boilerplate
->In computer programming, boilerplate code or just boilerplate are sections of code that are repeated in multiple places with little to no variation. When using languages that are considered verbose, the programmer must write a lot of code to accomplish only minor functionality
+# Mobile Friendly Day 6 
+### Overview 
+This repository compose of a daily challenge and a take home on which we will recreate the following wireframe using the different bootstrap utilities classes we learned. 
+
+! [Mobile Friendly Day 6 Wireframe](https://geekwiseacademy.github.io/virtual-mobile-friendly-websites/img/event-landing-page-wireframe.jpg)
