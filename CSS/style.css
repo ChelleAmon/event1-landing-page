@@ -1,4 +1,16 @@
-* {
-    background:linear-gradient(to bottom, #cea07e 0%, #846c5b 100%);
-    background-repeat: no-repeat;
+.top-margin {
+    margin-top:1em;
+}
+
+.top-padding {
+    padding-top: 1em;
+}
+
+.moqupstxt {
+    font-family: "oleo script"
+}
+
+.margin1{
+    margin-top:2em;
+    margin-bottom:2em;
 }
